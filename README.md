@@ -8,15 +8,15 @@
 
 | Materia               | Condición    |
 | --------------------- | ------------ |
-| Analisis Matematico I | Aprobada |
-| Analisis Matematico II | Regularizada |
+| [Analisis Matematico I](https://github.com/FAMAF-resources/1ro_1C-Analisis_Matematico_I-FAMAF) | Aprobada |
+| [Analisis Matematico II](https://github.com/FAMAF-resources/1ro_2C-Analisis_Matematico_II-FAMAF) | Regularizada |
 
 ## Correlativas para **aprobar**
 
 | Materia               | Condición    |
 | --------------------- | ------------ |
-| Analisis Matematico I | Aprobada |
-| Analisis Matematico II | Aprobada     |
+| [Analisis Matematico I](https://github.com/FAMAF-resources/1ro_1C-Analisis_Matematico_I-FAMAF) | Aprobada |
+| [Analisis Matematico II](https://github.com/FAMAF-resources/1ro_2C-Analisis_Matematico_II-FAMAF) | Aprobada     |
 
 ## Es correlativa de:
 
@@ -42,6 +42,10 @@ git clone --recurse-submodules git@github.com:FAMAF-resources/2do_2C-Probabilida
 git pull && git submodule update --init --recursive
 ```
 
+# Aula virtual
+
+[**2022**](https://famaf-consultas.aulavirtual.unc.edu.ar/course/view.php?id=960&section=0)
+
 # ¿Cómo contribuir?
 
 Este es un proyecto con fines de facilitar el acceso al material para estudio.
@@ -52,7 +56,7 @@ Puede ser realizado por una pull request (PR) o comunicándose con los administr
 
 # Nuestra comunidad
 
-[Sobre nosotros](https://github.com/FAMAF-resources/.github/tree/main/profile/README.md)
+[**Sobre nosotros**](https://github.com/FAMAF-resources/.github/tree/main/profile/README.md)
 
 # Contributors
 <a href="https://github.com/FAMAF-resources/2do_2C-Probabilidad_y_Estadistica-FAMAF/graphs/contributors">
